@@ -1,4 +1,4 @@
-from tube_transcript import *
+from transcript import *
 import os
 
 
