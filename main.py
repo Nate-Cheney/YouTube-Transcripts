@@ -4,7 +4,7 @@ import os
 
 if __name__ == "__main__":
     url_list = [
-        "https://www.youtube.com/watch?v=gpX0tnFot-8&t=1s"
+        "https://www.youtube.com/watch?v=RgChAj-XSPE"
     ]
 
     dir_path = r"transcripts"
