@@ -9,7 +9,9 @@ if __name__ == "__main__":
         output_dir = input("\nEnter the desired ouput directory:\n\t")
         if os.path.exists(output_dir):
             break
-        print("The directory entered does not exist.")
+        else:
+            output_dir = "transcripts"
+            break
 
     while True:
         # Repeat transcription until user quits.
