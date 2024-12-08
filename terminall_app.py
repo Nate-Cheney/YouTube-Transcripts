@@ -6,7 +6,8 @@ import transcript as yt
 if __name__ == "__main__":
     print("Instructions")
     while True:
-        output_dir = input("\nEnter the desired ouput directory:\n\t")
+        #output_dir = input("\nEnter the desired ouput directory:\n\t")
+        output_dir = r"transcripts"
         if os.path.exists(output_dir):
             break
         else:
