@@ -4,6 +4,7 @@ __pycache__/
 
 # IDEs
 .vscode/
+.idea/
 
 # Transcript Folder
 transcripts/
